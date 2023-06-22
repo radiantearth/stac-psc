@@ -2,7 +2,7 @@
 
 This document describes how the STAC (SpatioTemporal Asset Catalog) Project Steering Committee makes decisions on STAC and STAC API project issues. STAC is concerned with both the [stac-spec](https://github.com/radiantearth/stac-spec) and [stac-api-spec](https://github.com/radiantearth/stac-api-spec) repositories.
 
-In brief the committee votes on proposals on <https://github.com/radiantearth/stac-psc/issues>. Proposals are available for review for at least two business days, and a single veto is sufficient to delay progress though ultimately a majority of members can pass a proposal.
+In brief the committee votes on proposals on <https://github.com/radiantearth/stac-psc/issues>. Proposals are available for review for at least five business days, and a single veto is sufficient to delay progress though ultimately a majority of members can pass a proposal.
 
 ## Members
 
@@ -19,9 +19,9 @@ The current list will be maintained by the Radiant Earth team ([@radiantearth](h
 ## Detailed Process
 
 1. Proposals are written up and submitted on <https://github.com/radiantearth/stac-psc/issues/new/choose> for discussion and voting, by any interested party, not just committee members.
-2. Proposals need to be available for review for at least two business days before a final decision can be made. Public holidays count as business days.
+2. Proposals need to be available for review for at least five business days before a final decision can be made. Public holidays count as business days.
 3. Respondents may vote `+1` to indicate support for the proposal and a willingness to support implementation.
-4. Respondents may vote `-1` to veto a proposal, but must provide clear reasoning and alternate approaches to resolving the problem within the two days.
+4. Respondents may vote `-1` to veto a proposal, but must provide clear reasoning and alternate approaches to resolving the problem within the five days.
 5. A vote of `-0` indicates mild disagreement, but has no effect. A `0` indicates no opinion. A `+0` indicates mild support, but has no effect.
 6. Anyone may comment on proposals on the list, but only members of the Project Steering Committee’s votes will be counted.
 7. A proposal will be accepted if it receives +3 (including the proposer) and no vetoes (-1) or has not received enough votes in 20 business days.
@@ -37,7 +37,7 @@ The current list will be maintained by the Radiant Earth team ([@radiantearth](h
 Generally speaking, technical decisions should be made by consensus within STAC components. However, if a decision cannot be decided by consensus of the committers involved in the component, any committer can request the decision be brought to a vote of the STAC PSC. Technical decision that would be suitable for such a process include:
 
 * Any change to PSC membership (new members, removing inactive members)
-* Anything that could cause backward compatibility issues in normative specifications (e.g., API or process specifications).
+* Anything that could cause backward compatibility issues in normative specifications (e.g., any of the specifications).
 * Adding or changing substantial amounts of the normative specifications.
 * Issues of procedure (e.g. changes to these guidelines).
 * When stable releases should take place.
@@ -47,13 +47,12 @@ Generally speaking, technical decisions should be made by consensus within STAC 
 
 * The Chair is the ultimate adjudicator if things break down.
 * The absolute majority rule can be used to override an obstructionist veto, but it is intended that in normal circumstances vetoers need to be convinced to withdraw their veto. We are trying to reach consensus.
-* Software components that at least two other software repositories under <https://github.com/stac-spec> or <https://github.com/radiantearth/stac-api-spec> depend on must implement a review system for breaking changes (e.g. GitHub Pull Request Approvals) that require a certain number of approvals: 2 dependents require 1 approval, more than 2 dependents require 2 approvals. Exceptions for this must go through the PSC process.
 
 ## Committee Membership
 
 ### Adding Members
 
-Anyone with a contribution to the [STAC organization](https://github.com/Open-EO) may nominate someone for committee membership at any time. Only existing PSC committee members may vote on new members. Nominees must receive a majority vote from existing members to be added to the PSC.
+Anyone with a contribution to the [stac-spec](https://github.com/radiantearth/stac-spec) or [stac-api-spec](https://github.com/radiantearth/stac-api-spec) repositories may nominate someone for committee membership at any time. Only existing PSC committee members may vote on new members. Nominees must receive a majority vote from existing members to be added to the PSC.
 
 ### Stepping Down
 
