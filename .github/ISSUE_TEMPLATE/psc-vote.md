@@ -2,8 +2,8 @@
 name: PSC Vote
 about: Things the PSC has to vote on
 title: ''
-labels: ''
-assignees: ''
+labels: VOTE
+assignees: cholmes, matthewhanson, m-mohr, jbants, lossyrob
 
 ---
 
@@ -17,5 +17,3 @@ assignees: ''
 
 ## Additional context
 <!-- Add additional notes and remarks, including the deadline for votes (now +20 business days, including any local public holidays) -->
-
-**Deadline:** xx.xx.xxxx
