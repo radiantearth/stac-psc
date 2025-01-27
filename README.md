@@ -58,7 +58,7 @@ Generally speaking, technical decisions should be made by consensus within STAC 
 
 ### Adding Members
 
-Anyone with contributions to the GitHub repositories/organisations listed above may nominate someone for committee membership at any time. Only existing PSC committee members may vote on new members. Nominees must receive a majority vote from existing members to be added to the PSC.
+Any member of the STAC PSC or anyone with contributions to the GitHub repositories/organisations listed above may nominate someone for committee membership at any time. Only existing PSC committee members may vote on new members. Nominees must receive a majority vote from existing members to be added to the PSC.
 
 ### Stepping Down
 
