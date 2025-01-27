@@ -28,7 +28,7 @@ The current list will be maintained by the Radiant Earth team ([@radiantearth](h
 4. Respondents may vote `-1` to veto a proposal, but must provide clear reasoning and alternate approaches to resolving the problem within the five business days.
 5. A vote of `-0` indicates mild disagreement, but has no effect. A `0` indicates no opinion. A `+0` indicates mild support, but has no effect.
 6. Anyone may comment on proposals on the list, but only members of the Project Steering Committee’s votes will be counted.
-7. A proposal will be accepted if it receives +4 (including the proposer) and no vetoes (-1) or has not received enough votes in 20 business days.
+7. A proposal will be accepted if it is accepted by the majority of members (including the proposer) and no vetoes (-1) or has not received enough votes in 20 business days.
 8. If a proposal is vetoed, and it cannot be revised to satisfy all parties, then it can be resubmitted for an override vote in which a majority of all eligible voters indicating +1 is sufficient to pass it. Note that this is a majority of all committee members, not just those who actively vote.
 9. Upon completion of discussion and voting the proposer should announce whether they are proceeding (proposal accepted) or are withdrawing their proposal (vetoed).
 10. The Chair gets a vote.
@@ -51,7 +51,7 @@ Generally speaking, technical decisions should be made by consensus within STAC 
 
 * The Chair is the ultimate adjudicator if things break down.
 * The maximum number of PSC members is 7.
-* The maximum number of PSC members per company is 1.
+* The maximum number of PSC members per company is 2.
 * The absolute majority rule can be used to override an obstructionist veto, but it is intended that in normal circumstances vetoers need to be convinced to withdraw their veto. We are trying to reach consensus.
 
 ## Committee Membership
