@@ -1,7 +1,7 @@
 ---
 name: PSC Member Nomination
 about: Please read through the STAC Project Steering Committee guidelines (https://github.com/radiantearth/stac-psc) before continuing. 
-title: PSC Member Nomination
+title: PSC Member Nomination - [insert name here]
 labels: VOTE
 assignees: cholmes, matthewhanson, m-mohr, jbants, lossyrob
 ---
