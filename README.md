@@ -12,11 +12,14 @@ In brief the committee votes on proposals on <https://github.com/radiantearth/st
 
 The list of members of the Project Steering Committee is:
 
-* Chris Holmes (chair, [@cholmes](https://github.com/cholmes))
-* James Banting ([@jbants](https://github.com/jbants))
+* Emmanuel Mathot ([@cholmes](https://github.com/emmanuelmathot))
+* Julia Signell ([@jsignell](https://github.com/jsignell))
 * Matthew Hanson ([@matthewhanson](https://github.com/matthewhanson))
-* Rob Emanuele ([@lossyrob](https://github.com/lossyrob))
 * Matthias Mohr ([@m-mohr](https://github.com/m-mohr))
+* Michelle Roby ([@PowerChell](https://github.com/PowerChell))
+* Pete Gadomski ([@gadomski](https://github.com/gadomski))
+
+There's currently no elected chair.
 
 The current list will be maintained by the Radiant Earth team ([@radiantearth](https://github.com/radiantearth)) and will also be published to the STAC web page.
 
