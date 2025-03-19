@@ -3,8 +3,7 @@ name: PSC Vote
 about: Things the PSC has to vote on
 title: ''
 labels: VOTE
-assignees: emmanuelmathot, gadomski, jsignell, matthewhanson, m-mohr, PowerChell
-
+assignees: emmanuelmathot, gadomski, jsignell, matthewhanson, m-mohr, PowerChell, alexgleith
 ---
 
 ## Background
