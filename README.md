@@ -15,7 +15,7 @@ The list of members of the Project Steering Committee is:
 * Emmanuel Mathot ([@cholmes](https://github.com/emmanuelmathot))
 * Julia Signell ([@jsignell](https://github.com/jsignell))
 * Matthew Hanson ([@matthewhanson](https://github.com/matthewhanson))
-* Matthias Mohr ([@m-mohr](https://github.com/m-mohr))
+* Matthias Mohr (chair, [@m-mohr](https://github.com/m-mohr))
 * Michelle Roby ([@PowerChell](https://github.com/PowerChell))
 * Pete Gadomski ([@gadomski](https://github.com/gadomski))
 
