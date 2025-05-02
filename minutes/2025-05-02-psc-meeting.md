@@ -9,7 +9,7 @@ In attendance:
 
 - @PowerChell
 - @matthewhanson
-- @emmanuelmathot
+- @m-mohr
 - @jsignell
 - @gadomski
 - @alexgleith
