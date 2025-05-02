@@ -1,5 +1,5 @@
 ---
-minutes-recorded-by: @gadomski
+minutes-recorded-by: "@gadomski"
 ---
 
 # 2025-05-02 STAC PSC meeting
