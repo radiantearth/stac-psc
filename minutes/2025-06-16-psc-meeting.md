@@ -27,7 +27,7 @@ In attendance:
 - Discussed the awkwardness of version numbers in the conformance class URLs for STAC API extensions, no actions
 - Reviewed [the purpose of the PSC](https://github.com/radiantearth/stac-psc/blob/main/minutes/2025-05-02-psc-meeting.md#funding-and-psc-purpose) from last meeting
   - @matthewhanson and @jsignell to put together some framework for a roadmap
-  - @gadomski and @alexgleith to handle and additional coordination with OGC around community standard approval
+  - @gadomski and @alexgleith to handle any additional coordination with OGC around community standard approval
 - Reviewed incomplete actions from last meeting
   - @PowerChell to delete STAC Twitter account
   - @PowerChell to investigate a secure password sharing mechanism for the PSC
