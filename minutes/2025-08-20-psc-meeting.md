@@ -12,7 +12,6 @@ In attendance:
 - @m-mohr
 - @jsignell
 - @gadomski
-- @alexgleith
 - @emmanuelmathot
 
 ## Agenda
