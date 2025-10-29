@@ -18,7 +18,7 @@ In attendance:
 ## Agenda
 
 - STAC community sprint
-  - Was very successful with great conversations and good integration with the alongside Zarr sprint
+  - Was very successful with great [conversations and proposals](https://github.com/radiantearth/community-sprints/tree/main/14102025-esrin-rome-italy/sprint-notes) and good integration with the alongside Zarr sprint
   - Having a sprint in Europe was a good thing, let's continue doing sprints all over the world
 - STAC is now an [OGC Community Standard](https://www.ogc.org/announcement/ogc-announces-publication-of-the-spatiotemporal-asset-catalog-community-standards/) 🥳
 - Work continues on best practices migration to https://github.com/radiantearth/stac-best-practices/
