@@ -31,4 +31,4 @@ In attendance:
   - We may want to update the "extension maturity" system, possibly with a new "core" designation for some extensions
 - Other maintenance:
   - We could use some STAC money to switch to Quarto
-  - We'll make a light request for proposals and look for someone from the community to migrate the tutorials
+  - We'll make a light request for proposals and look for someone from the community to migrate and/or update the tutorials
