@@ -20,6 +20,7 @@ In attendance:
 - STAC community sprint
   - Was very successful with great [conversations and proposals](https://github.com/radiantearth/community-sprints/tree/main/14102025-esrin-rome-italy/sprint-notes) and good integration with the alongside Zarr sprint
   - Having a sprint in Europe was a good thing, let's continue doing sprints all over the world
+  - We're considering hosting a "maintenance-focused" sprint in conjunction with the CNG conference next year, and a more general sprint with FOSS4G in Japan
 - STAC is now an [OGC Community Standard](https://www.ogc.org/announcement/ogc-announces-publication-of-the-spatiotemporal-asset-catalog-community-standards/) 🥳
 - Work continues on best practices migration to https://github.com/radiantearth/stac-best-practices/
   - There's a [large PR](https://github.com/radiantearth/stac-best-practices/pull/29) for STAC+Zarr
