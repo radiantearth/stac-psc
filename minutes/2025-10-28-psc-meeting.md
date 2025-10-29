@@ -26,7 +26,7 @@ In attendance:
   - We'd like to include examples/demonstrates in-line with the best practices
   - We're exploring deploying the best practices and the specification documents as static HTML, this is work-in-progress
 - How do we maintain extensions?
-  - Matthias currently maintains a lot
+  - Matthias currently maintains most extensions by going through them every couple of months, but that's not sustainable.
   - We should be explicit about what we're _not_ maintaining
   - We may want to update the "extension maturity" system, possibly with a new "core" designation for some extensions
 - Other maintenance:
