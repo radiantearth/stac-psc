@@ -17,7 +17,7 @@ In attendance:
 
 ## Agenda
 
-- Discussion around updates to STAC API discussions
+- Discussion around updates to STAC API discussions and how to manage potentially conflicting implementations
 - Japan STAC Summit/Sprint at JAXA
   - PSC to fund PSC member travel
   - Need to arrange catering and other logistics
