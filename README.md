@@ -12,13 +12,13 @@ In brief the committee votes on proposals on <https://github.com/radiantearth/st
 
 The list of members of the Project Steering Committee is:
 
-* Alex Leith ([@alexgleith](https://github.com/alexgleith))
-* Emmanuel Mathot ([@emmanuelmathot](https://github.com/emmanuelmathot))
-* Julia Signell ([@jsignell](https://github.com/jsignell))
-* Matthew Hanson ([@matthewhanson](https://github.com/matthewhanson))
-* Matthias Mohr (chair, [@m-mohr](https://github.com/m-mohr))
-* Michelle Roby ([@PowerChell](https://github.com/PowerChell))
-* Pete Gadomski ([@gadomski](https://github.com/gadomski))
+* Alex Leith ([@alexgleith](https://github.com/alexgleith)) - Auspatious
+* Emmanuel Mathot ([@emmanuelmathot](https://github.com/emmanuelmathot)) - Development Seed
+* Julia Signell ([@jsignell](https://github.com/jsignell)) - Element 84
+* Matthew Hanson ([@matthewhanson](https://github.com/matthewhanson)) - LGND AI
+* Matthias Mohr (chair, [@m-mohr](https://github.com/m-mohr)) - moreGeo
+* Michelle Roby ([@PowerChell](https://github.com/PowerChell)) - Radiant Earth Foundation
+* Pete Gadomski ([@gadomski](https://github.com/gadomski)) - Development Seed
 
 The current list will be maintained by the Radiant Earth team ([@radiantearth](https://github.com/radiantearth)) and will also be published to the STAC web page.
 
@@ -68,6 +68,6 @@ If for any reason a PSC member is not able to fully participate then they certai
 
 ## History
 
-This document is based on the [GDAL Project Management Committee Guidelines](https://gdal.org/development/rfc/rfc1_pmc.html#rfc-1) and was accepted by the STAC project board on [instert date].
+This document is based on the [GDAL Project Management Committee Guidelines](https://gdal.org/development/rfc/rfc1_pmc.html#rfc-1) and was accepted by the STAC project board on 2025-03-14.
 
 The following changes have been made thereafter: <https://github.com/radiantearth/stac-psc/compare/v1...main>
