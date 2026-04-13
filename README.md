@@ -17,7 +17,7 @@ The list of members of the Project Steering Committee is:
 * Julia Signell ([@jsignell](https://github.com/jsignell)) - Element 84
 * Matthew Hanson ([@matthewhanson](https://github.com/matthewhanson)) - LGND AI
 * Matthias Mohr (chair, [@m-mohr](https://github.com/m-mohr)) - moreGeo
-* Michelle Roby ([@PowerChell](https://github.com/PowerChell)) - Radiant Earth Foundation
+* Michelle Roby ([@PowerChell](https://github.com/PowerChell)) - Radiant Earth
 * Pete Gadomski ([@gadomski](https://github.com/gadomski)) - Development Seed
 
 The current list will be maintained by the Radiant Earth team ([@radiantearth](https://github.com/radiantearth)) and will also be published to the STAC web page.
