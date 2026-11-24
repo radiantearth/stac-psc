@@ -53,7 +53,7 @@ Generally speaking, technical decisions should be made by consensus within STAC 
 
 * The Chair is the ultimate adjudicator if things break down.
 * The maximum number of PSC members is 7.
-* The maximum number of PSC members per company is 2.
+* The maximum number of PSC members per company cannot be more than half the members.
 * The absolute majority rule can be used to override an obstructionist veto, but it is intended that in normal circumstances vetoers need to be convinced to withdraw their veto. We are trying to reach consensus.
 
 ## Committee Membership
